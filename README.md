@@ -1,4 +1,4 @@
-# Procesos estocasticosaplicados a la movilidad social
+# Procesos estocásticos aplicados a la movilidad social
 Manuel Acosta Sanchez  
 Natalia Hernandez Cornejo  
 María Vara Suarez  
@@ -39,8 +39,33 @@ Propiedades de la cadena de Markov:
 Calculamos la permanencia en cada estado (los valores son en terminos de generaciones)
 ![Permanencia en estado](https://github.com/nathdzc/Movilidad-social-en-M-xico/blob/main/img/tabña_2.png)
 
+## Movilidad Ocupacional
 
+Ahora, nos enfocaremos en la movilidad ocupacional entre dos generaciones a nivel nacional. La movilidad ocupacional en este modelo está conformada por seis estados: Agrícolas, Trabajos manuales con baja calificación, Trabajos manuales con alta calificación, Comercio, Trabajos no manuales con baja calificación,Trabajos no manuales con alta calificación.
 
+![Histograma movilidad educativa](https://github.com/nathdzc/Movilidad-social-en-M-xico/blob/main/img/hist_2.png)
+
+Este histograma muestra los datos de la matriz de transición a continuación
+![Histograma movilidad educativa](https://github.com/nathdzc/Movilidad-social-en-M-xico/blob/main/img/tabla_3.png)
+
+Con ello, obtenemos la cadena de Markov
+![Histograma movilidad educativa](https://github.com/nathdzc/Movilidad-social-en-M-xico/blob/main/img/red_2.png)
+
+Propiedades de la cadena de Markov:
+• Estados recurrentes: {1, 2, 3, 4, 5, 6}  
+• Estados transitivos: ∅  
+• Estados absorbentes: ∅  
+• Irreducible
+
+Calculamos la permanencia en cada estado (los valores son en terminos de generaciones)
+![Permanencia en estado](https://github.com/nathdzc/Movilidad-social-en-M-xico/blob/main/img/tabña_4.png)
+
+Con base en los cálculos, mostraremos algunas gráficas que muestran la situación de movilidad educativa y ocupacional en cuanto a sexo (de la hija o hijo) y región del país (Norte, Centro, Sur).
+
+![Permanencia en estado](https://github.com/nathdzc/Movilidad-social-en-M-xico/blob/main/img/edu_sexo.png)
+![Permanencia en estado](https://github.com/nathdzc/Movilidad-social-en-M-xico/blob/main/img/tabña_4.png)
+![Permanencia en estado](https://github.com/nathdzc/Movilidad-social-en-M-xico/blob/main/img/permanencia_agricultura_sexo.png)
+![Permanencia en estado](https://github.com/nathdzc/Movilidad-social-en-M-xico/blob/main/img/permanencia_agricultura_sexo.png)
 
 
 
