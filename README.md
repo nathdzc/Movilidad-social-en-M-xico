@@ -67,6 +67,9 @@ Con base en los cálculos, mostraremos algunas gráficas que muestran la situaci
 ![Permanencia en estado](https://github.com/nathdzc/Movilidad-social-en-M-xico/blob/main/img/permanencia_agricultura_sexo.png)
 ![Permanencia en estado](https://github.com/nathdzc/Movilidad-social-en-M-xico/blob/main/img/permanencia_MBC_sexo.png)
 
+
+Todos los cálculos y graficaciones las hicimos a través de R. El documento presentacion.R contiene el código que hicimos para obtener los resultados. 
+
 ## Referencias
 • Anders Björklund and Markus Jäntti. The Econometrics of Income and Social Mobility. Cambridge University Press, Cambridge, UK, 2005.  
 • Centro de Estudios Espinosa Yglesias. ESRU – EMOVI 2017. Fundación ESRU. México, 2017
