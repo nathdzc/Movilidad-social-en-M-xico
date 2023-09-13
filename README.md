@@ -22,5 +22,6 @@ Todos los datos que utilizamos los sacamos del Centro de Estudios Espinosa Ygles
 En primer lugar, nos enfocaremos en la movilidad educativa entre dos generaciones a nivel nacional. 
 
 La movilidad educativa en este modelo está conformada por seis estados, que son: personas sin estudios, primaria incompleta, primaria terminada, secundaria terminada, preparatoria y educación profesional. 
+![Histograma movilidad educativa]([https://github.com/tu-usuario/tu-repo/blob/main/imagenes/logo.png](https://github.com/nathdzc/Movilidad-social-en-M-xico/blob/main/img/hist_1.png)https://github.com/nathdzc/Movilidad-social-en-M-xico/blob/main/img/hist_1.png)
 
 
