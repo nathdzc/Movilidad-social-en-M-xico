@@ -22,6 +22,28 @@ Todos los datos que utilizamos los sacamos del Centro de Estudios Espinosa Ygles
 En primer lugar, nos enfocaremos en la movilidad educativa entre dos generaciones a nivel nacional. 
 
 La movilidad educativa en este modelo está conformada por seis estados, que son: personas sin estudios, primaria incompleta, primaria terminada, secundaria terminada, preparatoria y educación profesional. 
-![Histograma movilidad educativa]([https://github.com/tu-usuario/tu-repo/blob/main/imagenes/logo.png](https://github.com/nathdzc/Movilidad-social-en-M-xico/blob/main/img/hist_1.png)https://github.com/nathdzc/Movilidad-social-en-M-xico/blob/main/img/hist_1.png)
+![Histograma movilidad educativa](https://github.com/nathdzc/Movilidad-social-en-M-xico/blob/main/img/hist_1.png)
+
+A continuación, mostramos la matriz de transición en un paso obtenida de ESRU-EMOVI 2017. 
+![Matriz de transición en un paso](https://github.com/nathdzc/Movilidad-social-en-M-xico/blob/main/img/tabla_1.png)
+
+Antes de crear la cadena de Markov, mostrada a continuación, ajustamos los datos para que los renglones de la matriz  sumen el  100. 
+![Cadena de Markov](https://github.com/nathdzc/Movilidad-social-en-M-xico/blob/main/img/red_1.png)
+
+Propiedades de la cadena de Markov:
+• Estados recurrentes: {1, 2, 3, 4, 5, 6}  
+• Estados transitivos: ∅  
+• Estados absorbentes: ∅  
+• Irreducible
+
+Calculamos la permanencia en cada estado (los valores son en terminos de generaciones)
+![Permanencia en estado](https://github.com/nathdzc/Movilidad-social-en-M-xico/blob/main/img/tabña_2.png)
+
+
+
+
+
+
+
 
 
